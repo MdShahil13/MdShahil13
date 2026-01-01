@@ -4,7 +4,7 @@
 💻 Learning Java | DSA | Git & GitHub  
 🤖 Exploring AI / Machine Learning with Python  
 🌐 Learning JavaScript for MERN Stack  
-🚀 Interested in Software Development  
+🚀 Interested in Software Development  / ML Engineer
 
 ### 🔧 Skills
 - Java
