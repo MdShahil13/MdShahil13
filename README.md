@@ -1,64 +1,192 @@
-# Hi, I'm Mohammad Shahil Shaikh 👋
+# Hi there 👋, I'm Mohammad Shahil Shaikh
 
-### Full Stack Developer | Backend Engineer | AI & ML Enthusiast | Problem Solver
+<h3 align="center">
+Full Stack Developer • Backend Engineer • AI & Machine Learning Enthusiast
+</h3>
 
-🎓 B.Tech CSE Student at Parul University (CGPA: 8.60)
-
-💻 Passionate about building scalable web applications, intelligent backend systems, AI/ML solutions, and real-world software products.
-
-🚀 Portfolio: https://portfolio-mohammad-shahil-s-projects.vercel.app/
-
----
-
-## About Me
-
-* 💡 Interested in Full Stack Development, Backend Engineering, Artificial Intelligence, Machine Learning, and Cloud Computing
-* 🤖 Exploring AI/ML, Generative AI, Retrieval-Augmented Generation (RAG), and Computer Vision
-* 🌱 Currently improving my skills in Java, DSA, System Design, AWS, Machine Learning, and Modern Web Development
-* 🏆 Solved 500+ coding problems across various platforms
-* 📈 LeetCode Rating: 1463
-* 📊 CodeChef DSA Rating: 1336
-* 🎯 Goal: Secure a Software Engineering Internship / SDE Role and contribute to impactful AI-driven products
+<p align="center">
+🎓 B.Tech Computer Science Student at Parul University <br>
+📍 Vadodara, Gujarat, India <br>
+CGPA: <b>8.63 / 10</b>
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-### Languages
+I'm a Computer Science student passionate about building scalable backend systems, AI-powered applications, and modern web applications.
+
+I enjoy solving real-world problems using software engineering, machine learning, and cloud technologies.
+
+Currently exploring:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ AWS Cloud
+- ⚡ System Design
+- 💻 Full Stack Development
+- 📈 Backend Engineering
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Solved **650+ DSA Problems**
+- ⭐ LeetCode Rating **1462**
+- 🍜 CodeChef Rating **1543**
+- 💡 Built multiple AI-based Full Stack projects
+- 🎯 Looking for Software Engineering & AI/ML Internship opportunities
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 Java • Python • C • C++ • SQL • JavaScript • HTML • CSS
 
-### Backend
+## Frontend
 
-Flask • Express.js • REST APIs • SQLAlchemy
+- React.js
+- Tailwind CSS
 
-### Frontend
+## Backend
 
-React.js • Tailwind CSS • JavaScript
+- Flask
+- FastAPI
+- Express.js
+- REST APIs
+- SQLAlchemy
 
-### Databases
+## Database
 
-MongoDB • SQLite • SQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- ChromaDB
 
-### AI / Machine Learning
+## AI / Machine Learning
 
-Machine Learning • Generative AI • RAG • Computer Vision • OpenCV • MediaPipe • Librosa • ChromaDB
+- Machine Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- OpenCV
+- MediaPipe
+- Librosa
+- LangChain
+- Ollama
 
-### Tools & Technologies
+## Cloud & Tools
 
-Git • GitHub • AWS • VS Code
+- AWS
+- Git
+- GitHub
+- VS Code
 
-### Core Computer Science
+## Computer Science
 
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
 
 ---
 
-## Portfolio
+# 🚀 Featured Projects
 
-🌐 Website:
+## 🔒 PrivacyGuard AI – Financial RAG Assistant
+
+**Tech Stack**
+
+Python • Flask • ChromaDB • SQLite • Pandas
+
+### Features
+
+- Privacy-preserving RAG pipeline
+- Semantic document retrieval
+- PII Detection & Data Masking
+- AI-powered financial document assistant
+
+---
+
+## 🤖 AI SQL Assistant
+
+**Tech Stack**
+
+React • FastAPI • PostgreSQL • LangChain • Ollama (Qwen2.5)
+
+### Features
+
+- Upload CSV datasets
+- Automatic PostgreSQL table creation
+- Natural Language → SQL conversion
+- AI-generated SQL execution
+- Interactive React dashboard
+
+---
+
+## 🎭 AI Behavioral Analysis System
+
+**Tech Stack**
+
+Python • Flask • MongoDB • OpenCV • MediaPipe • Librosa • WebRTC
+
+### Features
+
+- Face tracking
+- Blink detection
+- Voice emotion analysis
+- Live behavioral analysis
+- Full Stack AI application
+
+---
+
+# 📜 Certifications
+
+- AWS Academy Cloud Foundations
+- Cisco Networking Academy – Data Analytics Essentials
+- NPTEL – Computer Networks
+
+---
+
+# 🌐 Connect with Me
+
+🌍 Portfolio
+
 https://portfolio-mohammad-shahil-s-projects.vercel.app/
 
+💼 LinkedIn
+
+https://linkedin.com/in/mshahil
+
+💻 GitHub
+
+https://github.com/MdShahil13
+
+🟨 LeetCode
+
+https://leetcode.com/u/Md_Shahil/
+
+🍜 CodeChef
+
+https://www.codechef.com/users/
+
 ---
 
-*"Consistency beats talent when talent doesn't work hard."*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdShahil13&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdShahil13&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MdShahil13&theme=tokyonight)
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn't work hard."
+
+⭐ If you like my work, don't forget to star my repositories!
